@@ -1,0 +1,13 @@
+Phoenix Pendleton 4
+Pendleton Pueblo 8
+Pierre Pendleton 2
+Pierre Pueblo 3
+Pueblo Phoenix 3
+Peoria Pueblo 3
+Phoenix Peoria 4
+Pittsburgh Phoenix 10
+Phoenix Pensacola 5
+Peoria Pittsburgh 5
+Pittsburgh Pensacola 4
+Princeton Pittsburgh 2
+Princeton Pensacola 5
